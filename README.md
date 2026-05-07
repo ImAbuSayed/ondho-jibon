@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Ondho Jibon |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ondho-jibon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Ondho Jibon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Ondho Jibon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
