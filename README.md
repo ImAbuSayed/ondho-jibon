@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ondho-jibon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Ondho Jibon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Ondho Jibon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধ এই জীবনে তুমি আমার আলো,.. তুমি আমার আলো..
+> মেঘের আড়ালে যেন স্বপ্নের বাতি জ্বালো।
+> নীরব রাতের বুকে তুমি চাঁদের হাসি,.. চাঁদের হাসি..
+> তোমায় ছাড়া পৃথিবীটা লাগে যে উদাসী।
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
