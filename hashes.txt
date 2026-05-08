@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ondho Jibon
+
+This log tracks the cryptographic history and versioning for the song **Ondho Jibon** (ondho-jibon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:16:32.873064 | `v1` | `6d855611487637238e71cbfd25b048b67ea7838454ae54484aaab7662c1baebf` | `90310ee1950125119388ed6a86e98fd557e98fb7178b3d22070d2817721493a3` | `2026-05-08_ondho-jibon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
